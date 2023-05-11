@@ -6,6 +6,6 @@
 
 **I'm from** - Moscow
 
-**Favorite picture** -![](file:///Users/dmitrijagafonov/Documents/Картинки/1446556.jpg)
+**Favorite picture** -![](img/1446556.jpg)
 
 
